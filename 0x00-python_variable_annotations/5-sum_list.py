@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 ''' Task 5: Write a type-annotated function sum_list '''
-
 from typing import List
 from functools import reduce
 

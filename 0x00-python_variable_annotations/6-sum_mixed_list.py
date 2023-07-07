@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 ''' Task 6: Write a type-annotated function sum_mixed_list '''
-
 from typing import List, Union
 from functools import reduce
 

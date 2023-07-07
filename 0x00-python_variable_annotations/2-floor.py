@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 ''' Task 2: Write a type-annotated function floor '''
-
 import math
 
 
